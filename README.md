@@ -21,6 +21,7 @@
 - авторизованный пользователь,
 - неавторизованный пользователь.
 
+- Установка зависимостей - $ pip install -r requirements.txt
 - Запуск тестов pytest \tests -v
 - Создание отчета pytest \tests --alluredir=allure_results 
 - Формирование отчёта allure serve allure_results 
